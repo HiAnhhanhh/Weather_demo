@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="_15_oc">15 ° C</string>
+    <string name="sun">Sun</string>
+    <string name="ha_noi">Ha Noi</string>
+    <string name="c_max">° C max</string>
+    <string name="c_min">° C min</string>
+    <string name="weather_in_hanoi_in_the_next_7_days">Weather in Hanoi in the next 7 days</string>
+</resources>
